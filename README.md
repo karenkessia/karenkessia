@@ -10,7 +10,7 @@ I believe being a QA goes far beyond finding bugs — it's about questioning, in
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">  
-<a href="https://www.linkedin.com/in/karen-k-herrmann-433b34295/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="mariana monteiro" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/karen-k-herrmann-433b34295/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Karen.K Herrmann" height="60" width="60" /></a>
   
 
 
