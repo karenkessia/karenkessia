@@ -3,8 +3,8 @@
 <h1 align="center">Hi, I'm Karen! </h1>
 
 <h4 align="center">
-I work at the intersection of <strong>People, Processes and Technology</strong>, with a focus on <strong>RH Tech / People Ops</strong>.  
-I support tech environments by structuring processes, onboarding flows, documentation and internal communication that improve clarity, collaboration and employee experience.
+I work with <strong>Quality Assurance and Technical Documentation</strong>.  
+I support tech environments by structuring quality processes, test strategies, validation flows and documentation that improve reliability, traceability and product quality.
 </h4>
 
 <h4 align="left">Connect with me:</h4>
@@ -20,10 +20,10 @@ I support tech environments by structuring processes, onboarding flows, document
   <div style="flex: 1; min-width: 260px; background-color: #f5f5f5; border-radius: 12px; padding: 18px;">
     <ul>
       <li><strong>Student of</strong> Systems Analysis and Development</li>
-      <li><strong>RH Tech / People Ops</strong> with a technical background</li>
-      <li><strong>Experience with</strong> onboarding, process design, documentation and knowledge management in tech environments</li>
-      <li><strong>Background in</strong> QA, documentation and support to agile teams (Scrum)</li>
-      <li><strong>Interests:</strong> employee experience, onboarding, internal communication, HR Tech and process improvement</li>
+      <li><strong>Quality Assurance</strong> with technical background</li>
+      <li><strong>Experience with</strong> API testing, test design, documentation and quality artifacts</li>
+      <li><strong>Background in</strong> QA processes, exploratory testing and agile environments (Scrum)</li>
+      <li><strong>Interests:</strong> software quality, test strategy, AI applied to QA and process improvement</li>
     </ul>
   </div>
 
@@ -31,11 +31,11 @@ I support tech environments by structuring processes, onboarding flows, document
   <div style="flex: 1; min-width: 260px; background-color: #f5f5f5; border-radius: 12px; padding: 18px;">
     <h3>Tools & Work Context</h3>
     <ul>
-      <li><strong>Process & Knowledge:</strong> Notion, Confluence, Markdown, GitHub</li>
-      <li><strong>People & Collaboration:</strong> Jira, Agile / Scrum, collaborative platforms</li>
-      <li><strong>Technical Context:</strong> Postman, REST APIs (contextual understanding)</li>
-      <li><strong>Analysis & Writing Support:</strong> AI-assisted tools, VS Code</li>
-      <li><strong>Cloud & Systems (context):</strong> AWS</li>
+      <li><strong>Testing & APIs:</strong> Postman, REST APIs, API test scenarios</li>
+      <li><strong>Quality & Process:</strong> Jira, Agile / Scrum, test documentation</li>
+      <li><strong>Documentation:</strong> Markdown, GitHub, structured QA reports</li>
+      <li><strong>Technical Tools:</strong> VS Code, Git, AI-assisted QA workflows</li>
+      <li><strong>Cloud & Systems:</strong> AWS</li>
     </ul>
   </div>
 
@@ -43,13 +43,12 @@ I support tech environments by structuring processes, onboarding flows, document
 
 <br/>
 
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=FFFFFF&animation=fadeIn&fontAlignY=50&fontAlign=49&fontColor=000000&fontSize=20&textBg=false" width="32%"/>
   <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=FFFFFF&animation=fadeIn&fontAlignY=50&fontAlign=49&fontColor=000000&fontSize=20&textBg=false" width="32%"/>
   <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=FFFFFF&animation=fadeIn&fontAlignY=50&fontAlign=49&fontColor=000000&fontSize=20&textBg=false" width="32%"/>
 </div>
+
 
 
 
